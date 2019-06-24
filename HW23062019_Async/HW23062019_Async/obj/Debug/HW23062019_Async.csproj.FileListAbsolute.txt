@@ -1,0 +1,7 @@
+C:\Users\rosla\source\repos\HW23062019_Async\HW23062019_Async\bin\Debug\HW23062019_Async.exe.config
+C:\Users\rosla\source\repos\HW23062019_Async\HW23062019_Async\bin\Debug\HW23062019_Async.exe
+C:\Users\rosla\source\repos\HW23062019_Async\HW23062019_Async\bin\Debug\HW23062019_Async.pdb
+C:\Users\rosla\source\repos\HW23062019_Async\HW23062019_Async\obj\Debug\HW23062019_Async.csprojAssemblyReference.cache
+C:\Users\rosla\source\repos\HW23062019_Async\HW23062019_Async\obj\Debug\HW23062019_Async.csproj.CoreCompileInputs.cache
+C:\Users\rosla\source\repos\HW23062019_Async\HW23062019_Async\obj\Debug\HW23062019_Async.exe
+C:\Users\rosla\source\repos\HW23062019_Async\HW23062019_Async\obj\Debug\HW23062019_Async.pdb
